@@ -1,7 +1,9 @@
 # Twitter-Sentiment-Analysis
 ### Poject Summary: Sentiment Analysis of Bitcoin Tweets and Price Visualization
 
-This project focuses on analyzing the sentiment of tweets related to Bitcoin (BTC) and visualizing its price movement. The project utilizes the Twitter API and Cryptocompare API to collect relevant data and perform sentiment analysis. The following steps are involved in the project:
+This project focuses on analyzing the sentiment of tweets related to Bitcoin (BTC) and visualizing its price movement.
+
+#### The following steps are involved in the project:
 
 
 1. Authentication to Twitter: The code authenticates to Twitter using Tweepy and sets up the client with the provided bearer token.
