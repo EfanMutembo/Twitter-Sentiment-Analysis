@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+bearer_token='AAAAAAAAAAAAAAAAAAAAAJYDlAEAAAAA2GXb2qdUn6JmMXmNRBPXT%2BWf9%2FA%3DTXvC41juoyKz6JkeLrnKho2gRchVZ8ZxIYidIrauiCK780VoGG'
 
 # C extensions
 *.so
